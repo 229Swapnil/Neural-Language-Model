@@ -11,3 +11,5 @@ This repository contains three code files
 There are two supporting files for the Sentence Generator code.
 1.) Trained Word Language Model
 2.) One tokenizer file
+
+Finally there is a Report on the project
